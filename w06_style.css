@@ -19,6 +19,8 @@ p {
 
 h2 {
 	font-size: 16 px;
+	width: 400px;
+	text-align: center;
 }
 
 li {
@@ -27,7 +29,7 @@ li {
 
 ul,
 ol {
-	width: 100px;
+	width: 200px;
 }
 
 
