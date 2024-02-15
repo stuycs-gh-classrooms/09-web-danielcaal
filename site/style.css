@@ -1,0 +1,25 @@
+.navList {
+  text-align: center;
+  background-color: lightblue;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navElement {
+  display: inline-block;
+  margin-right: 75px;
+  margin-left: 75px;
+}
+.plainLink {
+  color: white;
+  text-decoration: none;
+
+}
+
+body {
+  margin: 0px;
+}
+
+nav {
+  position: sticky;
+}
