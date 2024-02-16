@@ -18,21 +18,19 @@
 }
 
 .plainLink:hover {
-  color: lightsteelblue;
+  color: white;
 }
 
 .logo {
   display: inline-block;
   margin-right: 20%;
   margin-left: 1%;
-  font-family: Georgia;
   font-weight: bolder;
   font-size: 30px;
-  color: white;
 }
 
 .plainLink {
-  color: white;
+  color: black;
   text-decoration: none;
 
 }
@@ -43,4 +41,20 @@ body {
 
 nav {
   position: sticky;
+}
+
+h1 {
+  text-align: center;
+  font-family: Georgia;
+  font-weight: normal;
+  margin-top: 30px;
+}
+
+p {
+  margin-left: 10%;
+  margin-right: 10%;
+  line-height: 25px;
+  margin-top: 3%;
+  font-family: Georgia;
+  font-size: 20px;
 }
