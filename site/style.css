@@ -17,6 +17,10 @@
   font-size: 30px;
 }
 
+.plainLink:hover {
+  color: lightsteelblue;
+}
+
 .logo {
   display: inline-block;
   margin-right: 20%;
