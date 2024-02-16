@@ -1,15 +1,32 @@
 .navList {
   text-align: center;
   background-color: lightblue;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.unindentList {
+  padding: 0;
 }
 
 .navElement {
   display: inline-block;
-  margin-right: 75px;
-  margin-left: 75px;
+  margin-right: 5%;
+  margin-left: 5%;
+  font-family: Georgia;
+  font-size: 30px;
 }
+
+.logo {
+  display: inline-block;
+  margin-right: 20%;
+  margin-left: 1%;
+  font-family: Georgia;
+  font-weight: bolder;
+  font-size: 30px;
+  color: white;
+}
+
 .plainLink {
   color: white;
   text-decoration: none;
