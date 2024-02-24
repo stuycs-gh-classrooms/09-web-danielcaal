@@ -50,7 +50,7 @@ body {
 h1 {
   text-align: center;
   font-family: Georgia;
-  margin-top: 30px;
+  margin-top: 50px;
   font-weight: normal;
 }
 
@@ -61,6 +61,7 @@ p {
   line-height: 25px;
   font-family: Georgia;
   font-size: 20px;
+  margin-bottom: 5%;
 }
 
 .banner {
@@ -68,4 +69,48 @@ p {
   width: 100%;
   height: auto;
   margin: auto;
+}
+
+.footer {
+  text-align: center;
+  background-color: lightblue;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  bottom: 0px;
+}
+
+.footerElement {
+  display: inline-block;
+  margin-right: 4%;
+  margin-left: 4%;
+  font-family: Georgia;
+  font-size: 15px;
+  vertical-align: middle;
+  font-weight: bold;
+}
+
+.titleFooterElement {
+  display: inline-block;
+  margin-right: 4%;
+  margin-left: 4%;
+  font-family: Georgia;
+  font-size: 15px;
+  vertical-align: middle;
+  font-weight: bold;
+  color: white;
+}
+
+.indentI {
+  padding-left: 30px;
+}
+.indentII {
+  padding-left: 60px;
+}
+
+.creed {
+  font-family: Georgia;
+  font-size: 20px;
+  margin-left: 30%;
+  margin-bottom: 50px;
+  margin-top: 50px;
 }
