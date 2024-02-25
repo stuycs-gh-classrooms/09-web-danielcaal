@@ -45,6 +45,7 @@ nav {
 
 body {
   margin: 0px;
+  font-family: Georgia;
 }
 
 h1 {
@@ -62,6 +63,7 @@ p {
   font-family: Georgia;
   font-size: 20px;
   margin-bottom: 5%;
+  line-height: 40px;
 }
 
 .banner {
@@ -113,4 +115,15 @@ p {
   margin-left: 30%;
   margin-bottom: 50px;
   margin-top: 50px;
+  line-height: 30px;
+}
+
+.meetingSchedule, .leaders{
+    margin-left: 10%;
+    list-style-type: square;
+    line-height: 40px;
+}
+
+ul {
+  list-style-type: inherit;
 }
